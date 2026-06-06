@@ -43,6 +43,41 @@ The project focuses heavily on:
 - Responsive dashboard experience
 
 ---
+## Homepage
+![Homepage](screenshots/homepage.png)
+
+## Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## Analytics
+![Analytics](screenshots/Analytics.png)
+
+## Clients
+![Clients](screenshots/Clients.png)
+
+## CRM  Pipeline
+![CRMPipeline](screenshots/CRM-pipeline.png)
+
+## Events  Community
+![EventsCommunity](screenshots/EventsCommunity.png)
+
+## Floor & Seats
+![Floor & Seats](screenshots/Floor-seats.png)
+
+## Helpdesk
+![Helpdesk](screenshots/Helpdesk.png)
+
+## Room Bookings
+![RoomBookings](screenshots/RoomBookings.png)
+
+## Settings
+![Settings](screenshots/Settings.png)
+
+## Team & HR
+![Team & HR](screenshots/Team-Hr.png)
+
+## Visitor Management
+![Visitor Management](screenshots/VisitorManagement.png)
 
 # Core Features
 
